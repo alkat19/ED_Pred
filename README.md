@@ -1,4 +1,4 @@
-# ED_Pred
+# Developing machine learning models of self-reported and register-based data to predict eating disorders in adolescence
 
 ## Overview
 
@@ -22,7 +22,7 @@ This repository contains the code and resources for predicting eating disorders 
 
 ### Data Source
 
-The Danish National Birth Cohort (DNBC) — one of the largest longitudinal birth cohorts worldwide — following 96,822 children from before birth through young adulthood.
+The Danish National Birth Cohort (DNBC) following 96,822 children from before birth through young adulthood.
 
 | Metric | Value |
 |--------|-------|
@@ -75,4 +75,4 @@ For questions about the research or code: [alexandros.katsiferis@sund.ku.dk](mai
 
 ## License
 
-This project is for research and educational purposes. Please refer to the publication for data availability information.
+Please refer to the publication for data availability information.
